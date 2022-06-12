@@ -40,7 +40,7 @@ Web developer, I am engaged in the creation and maintenance of information syste
     });
 
 # Education
- * Irkutskiy gosudarstvennyy universitet 
+ * Irkutsk State Transport University 
 
  # Languages 
  * Russian - native speaker
