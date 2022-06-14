@@ -1,0 +1,21 @@
+.skills.skills-frontend {
+    background-color: #E7ECFF;
+}
+
+.skills.skills-backend {
+    background-color: #C3FBD8;
+}
+
+.skills.skills-soft {
+    background-color: #FDEED9;
+}
+
+@media (min-width: 768px) {
+    .about-me, .skills {
+        min-height: 700px;
+    }
+}
+
+p.contacts a {
+    display: block;
+}
